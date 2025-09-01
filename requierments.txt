@@ -1,0 +1,10 @@
+python==3.12.2
+numpy==1.26.4
+pandas==2.2.2
+pytorch==2.3.1
+scikit-learn==1.5.1
+torch-geometric==2.5.3
+torch-scatter==2.1.2
+sympy==1.12
+scipy==1.14.0
+shutilwhich==1.1.0
